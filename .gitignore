@@ -2,5 +2,6 @@
 /gd_src
 /site
 /output
-gen_docs.py
+gdscript_docs_tools/
+material-design-icons/
 *.html
