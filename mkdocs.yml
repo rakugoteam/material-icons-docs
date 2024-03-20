@@ -1,5 +1,5 @@
-site_name: Documentation Of Some Project
-repo_url: https://github.com/rakugoteam/repo-name
+site_name: Godot Material Icons
+repo_url: https://github.com/rakugoteam/Godot-Material-Icons
 
 extra:
   homepage: https://rakugoteam.github.io
@@ -12,7 +12,7 @@ extra:
 
 theme:
   name: material
-  logo: logo.svg
+  logo: assets/logo.svg
   palette:
     scheme: slate
     primary: deep purple
